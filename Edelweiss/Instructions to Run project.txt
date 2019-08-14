@@ -1,0 +1,9 @@
+Run Backend: 
+	1) move to backend folder 
+	2) run command "npm i"
+	3) run command "nodemon"
+
+Run Frontend:
+	1) move to frontend folder
+	2) run command "npm i"
+	3) run connand "ng s -o"
